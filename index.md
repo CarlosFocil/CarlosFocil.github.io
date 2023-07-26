@@ -1,11 +1,11 @@
-## Portfolio
+## Selected projects in bioinformatics 
 
 ---
 
-### Selected projects in bioinformatics 
+### Data pipeline for comparative genomics
 
 [Data pipeline for comparative genomics](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Final_heatmap_test.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
