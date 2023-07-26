@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Selected projects in bioinformatics 
 
-[Project 1 Title](/sample_page)
+[Data pipeline for comparative genomics](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
