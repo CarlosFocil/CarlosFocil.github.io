@@ -8,9 +8,17 @@
 <img src="images/Final_heatmap_test.png?raw=true"/>
 
 ---
-[Metatranscriptomic analysis of a microbial consortium](/pdf/sample_presentation.pdf)
+### Metatranscriptomic analysis of a microbial consortium
+In this project, I designed the bioinformatics methodology and workflow
+for the study of the metatranscriptome of a microbial consortium 
+The general workflow consisted of the following steps:
+RNA-seq reads processing -> De novo metatranscriptome assembly ->
+Reads alignment and quantification -> Functional and domain prediction
+-> Differential gene expression -> Transcript clustering and visualization
+
 <img src="images/spectrum.02318-21-f005.gif?raw=true"/>
 
+[View paper](/pdf/sample_presentation.pdf)
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
