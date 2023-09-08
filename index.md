@@ -8,8 +8,8 @@
 <img src="images/Final_heatmap_test.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Metatranscriptomic analysis of a microbial consortium](/pdf/sample_presentation.pdf)
+<img src="images/spectrum.02318-21-f005.gif?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
