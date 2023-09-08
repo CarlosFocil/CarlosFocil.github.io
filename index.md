@@ -2,10 +2,7 @@
 
 ---
 
-### Data pipeline for comparative genomics
-
-[Data pipeline for comparative genomics](/sample_page)
-<img src="images/Final_heatmap_test.png?raw=true"/>
+### GPRFinder: A tool for guiding the curation of genome-scale metabolic modeling trough comparative genomics
 
 ---
 ### Metatranscriptomic analysis of a microbial consortium
