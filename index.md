@@ -10,7 +10,7 @@
 ---
 ### Metatranscriptomic analysis of a microbial consortium
 In this project, I designed the bioinformatics methodology and workflow
-for the study of the metatranscriptome of a microbial consortium 
+for the study of the metatranscriptome of a microbial consortium. 
 The general workflow consisted of the following steps:
 RNA-seq reads processing -> De novo metatranscriptome assembly ->
 Reads alignment and quantification -> Functional and domain prediction
@@ -18,7 +18,8 @@ Reads alignment and quantification -> Functional and domain prediction
 
 <img src="images/spectrum.02318-21-f005.gif?raw=true"/>
 
-[View paper](/pdf/sample_presentation.pdf)
+[View paper](/pdf/spectrum.02318-21.pdf)
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
