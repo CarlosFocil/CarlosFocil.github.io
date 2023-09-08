@@ -1,7 +1,8 @@
 title: Carlos Focil # your name (or website title) here
 logo: "/images/IMG_0283.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a bioinformatics engineer passionate about solving complex problems with data. 
+  Bioinformatics engineer passionate about solving complex problems with data. 
+  <br>
   With 5 years of experience in scientific research environments, I have acquired a broad computational skill set 
   including algorithm and pipeline development for processing extensive datasets, 
   high-dimensional data analysis and visualization, and building predictive models.
@@ -14,4 +15,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+colors:
+  crimson: '#900C3F'
