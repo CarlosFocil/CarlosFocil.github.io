@@ -22,7 +22,6 @@ Reads alignment and quantification -> Functional and domain prediction
 
 [View paper](/pdf/spectrum.02318-21.pdf)
 
----
 ## Personal projects
 ---
 ### MandalaPy: Drawing mandalas with Python and Voronoi diagrams.
