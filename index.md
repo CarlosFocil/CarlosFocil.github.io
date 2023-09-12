@@ -2,7 +2,7 @@
 
 ---
 
-### GPRFinder: A tool for guiding the curation of genome-scale metabolic modeling trough comparative genomics
+### GPRFinder: A tool for guiding the curation of genome-scale metabolic modeling through comparative genomics
 
 ---
 ### Metatranscriptomic analysis of a microbial consortium
