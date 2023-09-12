@@ -29,7 +29,7 @@ This project resulted in multiple collaborations around the globe, making its wa
 
 <img src="images/mandala1.png?raw=true"/>
 
-[View repository](https://github.com/CarlosFocil/mandalapy)  [View SciPy documentation](https://docs.scipy.org/doc/scipy/tutorial/spatial.html#voronoi-diagrams)
+[View repository](https://github.com/CarlosFocil/mandalapy) | [View SciPy documentation](https://docs.scipy.org/doc/scipy/tutorial/spatial.html#voronoi-diagrams)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
