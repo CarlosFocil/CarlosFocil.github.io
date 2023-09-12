@@ -23,6 +23,8 @@ Reads alignment and quantification -> Functional and domain prediction
 [View paper](/pdf/spectrum.02318-21.pdf)
 
 ---
+## Personal projects
+---
 ### MandalaPy: Drawing mandalas with Python and Voronoi diagrams.
 Here I developed a mandala generator based on Voronoi diagrams using SciPy and NumPy libraries. MandalaPy uses arrays to iteratively create equidistant points around a center with a defined radius. Then it draws a Voronoi diagram for the created points giving the mandalas figures.
 This project resulted in multiple collaborations around the globe, making its way into the SciPy official [documentation](https://docs.scipy.org/doc/scipy/tutorial/spatial.html#voronoi-diagrams).
