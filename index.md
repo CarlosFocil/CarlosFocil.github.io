@@ -5,7 +5,7 @@
 ### GPRFinder: A tool for guiding the curation of genome-scale metabolic models through comparative genomics
 
 ---
-### Metatranscriptomic analysis of a microbial consortium
+### Metatranscriptomic analysis of RNA-Seq data from a microbial consortium
 In this project, I designed the bioinformatics methodology and workflow
 for the study of the metatranscriptome of a microbial consortium. 
 The general workflow consisted of the following steps:
