@@ -7,6 +7,8 @@
 GPRFinder is a homology-based tool for finding gene-reaction association rules of genes missing in Genome-scale Metabolic Models (GEMs). The tool compares the whole genome of your model (target)
 versus the genome of a model from the BiGG database (template), and extracts bi-directional best hits (BBHs) with a provided PID threshold. It generates a table in CSV format containing the ID of the orthologous genes (target vs. template) with information on the reactions (Reaction ID, name, subsystem, and string) in which the template genes participate. This table can be used to accelerate gap-filling and curation processes of GEMs.
 
+[View repository](https://github.com/CarlosFocil/GPRFinder)
+
 ---
 ### Metatranscriptomic analysis of RNA-Seq data from a microbial consortium
 In this project, I designed the bioinformatics methodology and workflow
