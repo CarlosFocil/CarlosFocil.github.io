@@ -1,13 +1,14 @@
 title: Carlos Focil # your name (or website title) here
 logo: "images/Profile_circular_photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Bioinformatics engineer with 5 years of experience in big data processing, high-dimensional
-  data visualization and predictive model building for extracting insights.
+  Bioinformatician with 5 years of experience in big data processing, high-dimensional
+  data visualization and predictive model building for extracting insights in scientific
+  research.
   <br><br>
   MSc in Chemical and Biochemical Sciences
   with a focus on Computational and Systems Biology.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/carlos-focil">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 
