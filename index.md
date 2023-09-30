@@ -1,4 +1,4 @@
-## Selected projects in bioinformatics 
+## Selected projects in Bioinformatics and Data Science 
 
 ---
 
